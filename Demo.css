@@ -1,0 +1,160 @@
+body {
+  color: #000;
+  overflow-x: hidden;
+  height: 100%;
+  background-image: url("https://image.shutterstock.com/image-photo/fatehsagar-lake-udaipur-rajasthan-260nw-2202637585.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-color: black;
+}
+.card {
+  padding: 30px 40px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border: none !important;
+  box-shadow: 0 6px 12px 0 rgb(11, 3, 3);
+}
+.blue-text {
+  color: black;
+}
+.form-control-label {
+  margin-bottom: 0;
+}
+input,
+textarea,
+button {
+  padding: 8px 15px;
+  border-radius: 5px !important;
+  margin: 5px 0px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  font-size: 18px !important;
+  font-weight: 300;
+}
+input:focus,
+textarea:focus {
+  -moz-box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  border: 1px solid #00bcd4;
+  outline-width: 0;
+  font-weight: 400;
+}
+.btn-block {
+  text-transform: uppercase;
+  font-size: 18px !important;
+  font-weight: bold;
+  height: 50px;
+  cursor: pointer;
+  background-color: green;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.2),
+    8px 8px 8px 8px rgba(0, 0, 0, 0.19);
+}
+.btn-block:hover {
+  color: black !important;
+}
+button:focus {
+  -moz-box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  outline-width: 0;
+}
+/* .topic{
+  font-weight: bold;
+  width:100px;
+  height=10px;
+} */
+h2 {
+  text-align: center;
+  color: black;
+  padding-top:20px
+}
+.card-body {
+  background-color: greenyellow;
+  box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.2),
+    8px 8px 8px 8px rgba(0, 0, 0, 0.19);
+}
+.card-title {
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-text {
+  font-style: italic;
+  font-size: 20px;
+}
+
+.card {
+  width: 20em;
+  height: 1em;
+}
+
+.modal-body img {
+  font-size: 10px;
+  width: 45em;
+  height:30em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#heading{
+  font-size:20px;
+  font-weight: bold;
+  color: green;
+  text-decoration: underline;
+}
+.container-fluid .contact{
+  margin-top:0px;
+  background-color:aqua;
+  text-align:center
+
+}
+.table{
+  background-color:rgb(220, 218, 67);
+  border:5px black;
+  border-radius: 30px;
+  box-shadow: 8px 8px 8px 8px rgba(7, 10, 16, 0.676),
+    8px 8px 8px 8px rgba(15, 7, 7, 0.483);
+
+}
+
+#collage{
+  width:300px;
+  height:220px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+.gallery{
+  display: block;
+ padding:20px;
+ margin-left:50px;
+  font-size: 10px;
+}
+.ms-auto{
+ background-color: #000;
+
+}
+.feedback{
+  /* text-align: center; */
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  background-color:ivory
+}
+.rate{
+  color:#000;
+  font-weight:bold;
+  padding: 10px;
+}
+
+.nav-colour{
+  background-color: #000;
+  color:white;
+}
+
+.nav-item{
+  padding: 10px;;
+}
